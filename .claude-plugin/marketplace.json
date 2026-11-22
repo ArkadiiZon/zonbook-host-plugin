@@ -1,0 +1,19 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "zonbook",
+  "description": "Plugins from Zonbook for people who run short-term rentals.",
+  "owner": {
+    "name": "Zonbook",
+    "email": "support@zonbook.com"
+  },
+  "plugins": [
+    {
+      "name": "zonbook-host",
+      "source": "./plugins/zonbook-host",
+      "description": "Run your Zonbook rentals from Claude: today's brief, guest replies, check-in readiness, calendar and prices, cleaning schedule, monthly owner summary.",
+      "version": "1.0.0",
+      "category": "productivity",
+      "homepage": "https://zonbook.com/en/ai-assistants"
+    }
+  ]
+}

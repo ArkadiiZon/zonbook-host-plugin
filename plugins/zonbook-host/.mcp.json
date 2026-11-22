@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "zonbook-host": {
+      "type": "http",
+      "url": "https://api.zonbook.com/mcp/host"
+    }
+  }
+}

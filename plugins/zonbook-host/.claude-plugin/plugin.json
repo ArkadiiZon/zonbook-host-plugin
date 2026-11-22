@@ -1,0 +1,15 @@
+{
+  "name": "zonbook-host",
+  "version": "1.0.0",
+  "description": "Zonbook Host for Claude: connect your Zonbook hosting account and use ready-made skills for your daily brief, guest replies, check-in readiness, calendar and prices, cleaning schedule and owner summaries.",
+  "author": {
+    "name": "Zonbook",
+    "email": "support@zonbook.com",
+    "url": "https://zonbook.com"
+  },
+  "homepage": "https://zonbook.com/en/ai-assistants",
+  "repository": "https://github.com/ArkadiiZon/zonbook-host-plugin",
+  "license": "MIT",
+  "keywords": ["zonbook", "short-term-rental", "property-management", "hosts", "mcp"],
+  "privacyPolicyUrl": "https://zonbook.com/en/privacidad"
+}
